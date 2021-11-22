@@ -4,6 +4,7 @@
 """Astropy Digest notes, Vol. 181, Issue 8."""
 
 # Topic: [Astropy] Some SIMBAD queries erroring?
+# Author: Jim Singh
 # Date: 2021-Oct-18, 13:12:27 CEST
 # To: Astronomical Python mailing list
 
@@ -22,6 +23,7 @@ def original():
     """Astropy Digest notes, Vol.181, Issue 8.
 
     Topic: Some SIMBAD queries erroring? (reproduced the original script by Issue_nr.8's author, only for reference purposes.)
+    Original snipet/script from Jim Singh.
     """
 
     observing_time = Time.strptime('2021-Oct-18 09:30:00',
