@@ -56,6 +56,7 @@ def original():
 
 def modified(observing_time: astropy.time.core.Time, obj_list: list) -> dict:
     """Astropy Digest notes, Vol.181, Issue 8, with additions.
+    Modifications from original by J.P. Silva.
 
     Calculate Coordinates of a list of objects from SIMBAD queries (modified query by AstroThings' author).
 
